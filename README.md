@@ -5,7 +5,7 @@ I personally have two binds permanently bound, one to pause cmus, another to run
 
 To use this, you must first setup an Arduino micro-controller to send received infrared signals through serial. Many tutorials can be found online, like http://www.instructables.com/id/Arduino-Infrared-Remote-tutorial/. The arduino code only has to send raw values, nothing else.
 
-##TODO
+## TODO
 - finish implementing database storage
 - implement database retrieving
 - implement bind deletion, mirror the results to the ui
